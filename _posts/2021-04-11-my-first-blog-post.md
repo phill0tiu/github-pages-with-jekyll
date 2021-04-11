@@ -1,6 +1,6 @@
 ---
 title: "psycho holiday"
-date:04/11/2021
+date:2021/04/11
 ---
 ohayou!!!
 minasan konichiwa
